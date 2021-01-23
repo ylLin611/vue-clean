@@ -1,19 +1,3 @@
 # vue-clean
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 干净的vue初始化项目，可通过npm install yangl   yangl create <projectname> 创建
